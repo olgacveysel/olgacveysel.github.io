@@ -1,10 +1,9 @@
 # --- General options --- #
 
 # Name of website
-title: My website
-
+title: Test Site
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: You cannot describe me
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -67,23 +66,23 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  rss: false
+  email: "veysel@olgac.org"
+  facebook: olgacveysel 
+  github: olgacveysel
+  twitter: olgacveysel
+#  reddit: -
+#  linkedin: -
+#  xing: -
+#  stackoverflow: "-/-"
+#  snapchat: -
+#  instagram: -
+#  youtube: user/-
+#  spotify: -
+#  telephone: +-
+#  steam: -
+#  twitch: -
+#  yelp: -
 
 # Select which share links to show in posts
 share-links-active:
@@ -93,7 +92,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "olgac.org"  #
 
 # --- Web Statistics Section --- #
 
